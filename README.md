@@ -76,7 +76,6 @@ Flight-Delay-Prediction
 │
 ├── dataset/
 ├── images/
-├── report/
 ├── src/
 │   └── flight_delay_prediction.py
 ├── README.md
@@ -115,6 +114,11 @@ python src/flight_delay_prediction.py
 ---
 
 
+## Live Dashboard
+The project also includes a simple dashboard prototype for visualizing flight delay predictions and analytics.
+
+Dashboard Prototype:
+https://flightdelaydash-xsdv071.public.builtwithrocket.new
 
 
 
